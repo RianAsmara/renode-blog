@@ -1,4 +1,4 @@
-# RENODE
+# Simple Node React Blog
 
 ## Database Setup
 - Make sure you already make a MySQL database in your local machine.
